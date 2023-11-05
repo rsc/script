@@ -1,0 +1,6 @@
+cat hello.txt
+stdout 'hello world'
+! stderr 'hello world'
+
+-- hello.txt --
+hello world
